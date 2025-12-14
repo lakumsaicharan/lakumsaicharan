@@ -18,7 +18,7 @@ class LakumSaiCharan:
         self.name = "Lakum Sai Charan"
         self.role = "Aspiring ML Engineer"
         self.education = "BTech in Computer Software Engineering"
-        self.university = "CMR University (Graduated June 2024)"
+        self.university = "CMR University (Graduated June 2025)"
         self.location = "Hyderabad, Telangana, India"
         self.pronouns = "he/him"
         
@@ -35,7 +35,7 @@ class LakumSaiCharan:
         return {
             "languages": ["Python", "SQL"],
             "ml_ai": ["Machine Learning", "NLP", "Computer Vision", "AI Agents"],
-            "data_tools": ["Power BI", "Tableau", "Pandas", "NumPy"],
+            "data_tools": ["Power BI", "Pandas", "NumPy"],
             "databases": ["MS SQL Server", "MySQL"],
             "frameworks": ["TensorFlow", "Scikit-learn", "Turtle Graphics"],
             "interests": ["AI Engineering", "Data Analytics", "Deep Learning"]
@@ -202,7 +202,7 @@ Transformative experience learning about:
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - ✅ Complete 100 Days of Code Challenge
 - 🎯 Master AI Agent Architectures (LangGraph, Graph Control Flow)
