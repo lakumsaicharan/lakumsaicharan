@@ -51,8 +51,7 @@ class LakumSaiCharan:
 
 - 🐢 Exploring **Turtle Graphics** & GUI Development
 - 🎮 Building interactive games and projects
-- 🧩 Solving **LeetCode** challenges daily
-- 📝 Documenting learning journey on LinkedIn & X
+> Following my daily progress on [LinkedIn](https://www.linkedin.com/in/lakumsaicharan/recent-activity/) & [X](https://x.com/saicharanlakum)- 📝 Documenting learning journey on LinkedIn & X
 
 **Recent Projects:**
 - ✅ Hirst Painting Generator with Color Extraction
@@ -149,7 +148,6 @@ Transformative experience learning about:
 
 ### Analytics & BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Databases
