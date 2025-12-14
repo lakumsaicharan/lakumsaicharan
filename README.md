@@ -47,11 +47,12 @@ class LakumSaiCharan:
 ## 🚀 Currently Working On
 
 ### 💯 [100 Days of Code - Python Journey](https://github.com/lakumsaicharan)
-> **Day 19/100** - Consistent daily learning and building
+> Consistent daily learning and building
 
-- 🐢 Exploring **Turtle Graphics** & GUI Development
+- 🐢 Exploring Turtle Graphics & GUI Development
 - 🎮 Building interactive games and projects
-> Following my daily progress on [LinkedIn](https://www.linkedin.com/in/lakumsaicharan/recent-activity/) & [X](https://x.com/saicharanlakum)- 📝 Documenting learning journey on LinkedIn & X
+- 📝 Documenting learning journey on LinkedIn & X
+> Following my daily progress on [LinkedIn](https://www.linkedin.com/in/lakumsaicharan/recent-activity/) & [X](https://x.com/saicharanlakum) 
 
 **Recent Projects:**
 - ✅ Hirst Painting Generator with Color Extraction
