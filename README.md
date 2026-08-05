@@ -16,29 +16,26 @@
 class LakumSaiCharan:
     def __init__(self):
         self.name = "Lakum Sai Charan"
-        self.role = "Aspiring ML Engineer"
-        self.education = "BTech in Computer Software Engineering"
+        self.role = "Aspiring Data Engineer"
+        self.education = "BTech in Computer Science Engineering"
         self.university = "CMR University (Graduated June 2025)"
         self.location = "Hyderabad, Telangana, India"
         self.pronouns = "he/him"
         
     def current_focus(self):
         return [
-            "📚 100 Days of Code Challenge - Python Fundamentals",
-            "🤖 Building AI Agents with Production-Grade Architecture",
             "📊 Data Analysis & Machine Learning Projects",
-            "🔍 Learning LangGraph & Gemini API",
-            "💼 Open to ML Engineer & Data Analyst Opportunities"
+            "🔍 Learning AWS & Data Engineering",
+            "💼 Open to ML Engineer & Data Engineer Opportunities"
         ]
     
     def skills(self):
         return {
             "languages": ["Python", "SQL"],
-            "ml_ai": ["Machine Learning", "NLP", "Computer Vision", "AI Agents"],
-            "data_tools": ["Power BI", "Pandas", "NumPy"],
+            "data_tools": ["Power BI", "Pandas", "NumPy", "Amazon QuickSight"],
             "databases": ["MS SQL Server", "MySQL"],
-            "frameworks": ["TensorFlow", "Scikit-learn", "Turtle Graphics"],
-            "interests": ["AI Engineering", "Data Analytics", "Deep Learning"]
+            "frameworks": ["Tkinter", "Data Warehousing", "Turtle Graphics", "Data Lakehouses"],
+            "interests": ["Software Engineering", "Data Engineering", "AWS"]
         }
 ```
 
@@ -46,22 +43,9 @@ class LakumSaiCharan:
 
 ## 🚀 Currently Working On
 
-### 💯 [100 Days of Code - Python Journey](https://github.com/lakumsaicharan)
-> Consistent daily learning and building
-
-- 🐢 Exploring Turtle Graphics & GUI Development
-- 🎮 Building interactive games and projects
-- 📝 Documenting learning journey on LinkedIn & X
-> Following my daily progress on [LinkedIn](https://www.linkedin.com/in/lakumsaicharan/recent-activity/) & [X](https://x.com/saicharanlakum) 
-
-**Recent Projects:**
-- ✅ Hirst Painting Generator with Color Extraction
-- ✅ Quiz Game using OOP Principles
-- ✅ Coffee Making Machine Simulator
-- ✅ Hangman Game
-- ✅ Rock, Paper, Scissors Game
-
----
+- 🐢 Exploring AWS & Data Lakehouses
+- 🎮 Building Data Lakehouses
+> [LinkedIn](https://www.linkedin.com/in/lakumsaicharan/recent-activity/) & [X](https://x.com/saicharanlakum) 
 
 ## 🎓 Recent Learning Highlights
 
